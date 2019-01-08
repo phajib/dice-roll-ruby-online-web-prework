@@ -4,4 +4,5 @@
 
 def roll
   # code goes here
+  rand(0..7)
 end
